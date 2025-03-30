@@ -3,10 +3,15 @@ This project demonstrates the implementation of a secure book store API using Sp
 
 # Features
 1.User registration and login with JWT authentication
+
 2.Password encryption using BCrypt
+
 3.Role-based authorization with Spring Security
+
 4.CRUD operations for managing books
+
 5.Customized error handling
+
 6.Search and filter books by title, author, category, and rating
 
 # Technologies
